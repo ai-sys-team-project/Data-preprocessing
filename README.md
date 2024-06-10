@@ -4,17 +4,8 @@ codes for data preprocessing
 
 ## Embedding method - classifying method: (accuracy/f1 micro/f1 macro score)
 
-BERT - SVM: 
+![image](https://github.com/ai-sys-team-project/Data-preprocessing/assets/136441326/5aeb073e-c85c-4fde-9c44-3cbf73e2946c)
 
-BERT - LightGBM: 
-
-BERT - CNN:  
-
-GPT - SVM: 
-
-GPT - LightGBM: 
-
-GPT - CNN: 
 
 
 ## Bert model

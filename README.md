@@ -7,7 +7,7 @@ codes for data preprocessing
 ![image](https://github.com/ai-sys-team-project/Data-preprocessing/assets/136441326/5aeb073e-c85c-4fde-9c44-3cbf73e2946c)
 
 
-
+-모종의 이유로 LightGBM이 거의 학습이 안 된다. parameter도 수정해봤으나 결과는 동일했다. 
 ## Bert model
 Klue-BERT-base:
 

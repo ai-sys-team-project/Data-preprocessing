@@ -2,7 +2,7 @@
 
 codes for data preprocessing
 
-## Embedding method - classifying method: (accuracy/f1 micro/f1 macro score)
+## Embedding method - classifying method: (accuracy/f1 macro score)
 
 ![image](https://github.com/ai-sys-team-project/Data-preprocessing/assets/136441326/5aeb073e-c85c-4fde-9c44-3cbf73e2946c)
 
